@@ -11,6 +11,5 @@
 
 ## Ideas
 
-* Push a number, it shoots that many times
 * Push a number and it either shoots or nods that many times
 * Nod n times, need to push that number or you get blasted
