@@ -2,6 +2,9 @@
 
 ## Done!
 
+* GuessingGame
+    * IRTurret-GuessingGame.ino
+    * it picks a number from 1-6 when you push star. you guess what it is. p.s you get blasted if you are wrong
 * RandomShootingGame
     * IRTurret-RandomShootingGame.ino
     * Push enter and there's a random chance to either nod at you (good), shake head and fire (bad), or fire all (really bad)
